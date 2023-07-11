@@ -1,0 +1,10 @@
+Requirements:
+following tools and technologies used to build the data pipeline:
+Apache Kafka for data ingestion.
+Data storage and processing.
+Elasticsearch for data indexing and searching.
+Apache Spark for data processing and aggregation.
+Deliverables:
+You should provide the following deliverables:
+A brief report that summarizes the approach taken and any assumptions made during the implementation of the data
+pipeline.
